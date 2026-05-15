@@ -6,3 +6,4 @@ Added installation instructions
 Updated development workflow notes
 Added feature planning checklist
 Improved repository organization
+Added temporary testing notes
