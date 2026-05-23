@@ -14,3 +14,4 @@ Added deployment preparation checklist
 Updated changelog structure
 Improved documentation readability
 Added debugging workflow reminders
+Updated testing environment notes
