@@ -25,3 +25,4 @@ Improved repository maintenance checklist
 Added performance monitoring ideas
 Updated development tracking entries
 Improved release workflow structure
+Added scalability planning notes
