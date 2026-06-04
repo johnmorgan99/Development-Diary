@@ -31,3 +31,4 @@ Improved collaboration workflow documentation
 Added infrastructure review checklist
 Updated integration testing notes
 Improved changelog readability
+Added automation planning reminders
